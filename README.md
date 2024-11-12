@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm Urbana Akter Rimi.</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="coding" src="https://th.bing.com/th/id/OIP.qdAW1TjCN57h1lbuuzvchgHaFj?rs=1&pid=ImgDetMain">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=urbana210&label=Profile%20views&color=0e75b6&style=flat" alt="urbana210" /> </p>
 
 <p align="left"> <a href="https://twitter.com/urbana210" target="blank"><img src="https://img.shields.io/twitter/follow/urbana210?logo=twitter&style=for-the-badge" alt="urbana210" /></a> </p>
